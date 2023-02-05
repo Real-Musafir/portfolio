@@ -8,5 +8,5 @@ export const headerData = {
   imagebw:
     "https://res.cloudinary.com/dva2poi3c/image/upload/v1675514313/IMG20210924125012_sjvtdb.jpg",
   resumePdf:
-    "https://drive.google.com/file/d/1cKi2VQqaVj9wGnFd-8ppFEyEb2gPSWqg/view?usp=share_link",
+    "https://drive.google.com/file/d/1c-ugExQamM7JiXJn-ByurGPNI4Ts5bcr/view?usp=share_link",
 };
