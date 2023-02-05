@@ -12,7 +12,7 @@ function Experience() {
   return (
     <div style={{ backgroundColor: theme.secondary }}>
       <Container className="experience" id="experience">
-        <div className="experience-body">
+        <div>
           {/* <div className="experience-image">
             <AnimationLottie animationPath={experience} />
           </div> */}
